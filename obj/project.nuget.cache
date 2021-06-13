@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEvjt08wwCmi5713Lpn/2Qnu3p2R1NnNxDkgzz5o70RdIZ5ieC+t9KvPrPCo/W7/7rr9+H7jQZ/r37NGOcsbXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zmath\\Projects\\DotNets\\ContosoPizza\\ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zmath\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zmath\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zmath\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\zmath\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\zmath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\zmath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
